@@ -25,7 +25,8 @@ def main():
     elif num == 28:
         print("even") # Birthday ko yan -Elmo
     # Add more xdddd
-
+elif num == 67:
+        print("odd") #POW -rapinha5
     else:
         print("Number not yet supported. Contribute to add it!")
 
